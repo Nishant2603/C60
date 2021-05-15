@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+.S1 {
+    width: 100%;
+    background: linear-gradient(lightseagreen 20%, teal 80%);
+}
+.line {
+    width: 50px;
+    height: 4px;
+    background-color: bisque;
+    margin: 8px auto;
+}
+#heading1 {
+    font-size: 40px;
+    color: bisque;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 20px;
+}
+.game {
+    width: 100%;
+    background: linear-gradient(rgb(235, 220, 18) 20%, rgb(233, 122, 19) 80%);
+}
+#heading2 {
+    font-size: 40px;
+    color: rgb(41, 67, 182);
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 20px;
+}
+.line2 {
+    width: 50px;
+    height: 4px;
+    background-color: rgb(41, 67, 182);
+    margin: 8px auto;
+}
+img {
+    transition: transform .2s;
+}
+img:hover {
+    transform: scale(.9);
+}
+.chatb {
+    width: 100%;
+    background: linear-gradient(rgb(156, 221, 130) 20%, rgb(163, 223, 218) 80%);
+}
+#heading3 {
+    font-size: 40px;
+    color: rgb(255, 118, 221);
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 20px;
+}
+.line3 {
+    width: 50px;
+    height: 4px;
+    background-color: rgb(255, 118, 221);
+    margin: 8px auto;
+}
